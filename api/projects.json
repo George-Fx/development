@@ -17,6 +17,10 @@
                 {
                     "id": 1,
                     "description": "Develop user authentication (registration and password recovery) and shopping cart functionality (adding, updating quantities, removing items, and saving cart state between sessions)."
+                },
+                {
+                    "id": 1,
+                    "description": "Develop user authentication (registration and password recovery) and shopping cart functionality (adding, updating quantities, removing items, and saving cart state between sessions)."
                 }
             ],
             "screens": 44,
