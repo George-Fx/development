@@ -42,11 +42,7 @@
             "screens": 44,
             "budget": "25-35.000",
             "timeSpent": "7-9 weeks",
-            "technology": [
-                "react native",
-                "figma",
-                "laravel"
-            ]
+            "technology": "React Native | Figma | Laravel"
         },
         {
             "id": 2,
