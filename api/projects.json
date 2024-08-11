@@ -4,10 +4,10 @@
         "id": "1",
         "name": "Manero: Fashion Store",
         "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "preview_1520_370": "https://george-fx.github.io/manero/assest/01.png",
+        "preview_1520_370": "https://george-fx.github.io/development/assest/01.png",
         "category": ["clothes"],
         "screens": 44,
-        "Budget": "25-35.000",
+        "budget": "25-35.000",
         "technology": ["react native", "figma", "laravel"]
       }
     ]
