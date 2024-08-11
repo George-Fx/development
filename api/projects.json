@@ -1,7 +1,55 @@
 {
     "projects": [
         {
-            "id": "1",
+            "id": 2,
+            "name": "Manero: Fashion Store",
+            "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+            "preview_1520_370": "https://george-fx.github.io/development/assets/1520x370/01.png",
+            "preview_487_487": [
+                "https://george-fx.github.io/development/assets/487x487/01.png",
+                "https://george-fx.github.io/development/assets/487x487/02.png",
+                "https://george-fx.github.io/development/assets/487x487/03.png"
+            ],
+            "category": [
+                "clothes"
+            ],
+            "tasks": [
+                {
+                    "id": 1,
+                    "description": "Develop user authentication (registration and password recovery) and shopping cart functionality (adding, updating quantities, removing items, and saving cart state between sessions)."
+                },
+                {
+                    "id": 1,
+                    "description": "Implement the order checkout process, including the selection of delivery and payment methods, entering contact information, and reviewing and confirming the order before submission. Create an interface for viewing and tracking existing orders, with the option to cancel or modify orders before processing."
+                }
+            ],
+            "solutions": [
+                {
+                    "id": 1,
+                    "description": "For the development of the e-commerce clothing mobile app, various technologies and methods were employed. Authentication and authorization mechanisms were implemented to ensure the security of user data. Additionally, functionality for managing the shopping cart was developed, including features for adding, removing, and updating items."
+                }
+            ],
+            "result": [
+                {
+                    "id": 1,
+                    "description": "The successful development of the e-commerce mobile app for clothing resulted in a secure and user-friendly platform. The technologies and methods applied led to the creation of effective authentication and authorization mechanisms, ensuring data security."
+                },
+                {
+                    "id": 2,
+                    "description": "Session and shopping cart management were implemented with high functionality, enhancing the user experience. As a result, the app has become a reliable tool for online shopping, attracting users and driving increased sales."
+                }
+            ],
+            "screens": 44,
+            "budget": "25-35.000",
+            "timeSpent": "7-9 weeks",
+            "technology": [
+                "react native",
+                "figma",
+                "laravel"
+            ]
+        },
+        {
+            "id": 2,
             "name": "Manero: Fashion Store",
             "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
             "preview_1520_370": "https://george-fx.github.io/development/assets/1520x370/01.png",
