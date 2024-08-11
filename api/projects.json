@@ -1,0 +1,56 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Black Sneakers",
+        "price": 120.0,
+        "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "colors": [
+          {
+            "id": 1,
+            "name": "pastel red",
+            "code": "#FF6262"
+          },
+          {
+            "id": 2,
+            "name": "maya blue",
+            "code": "#63C7FF"
+          },
+          {
+            "id": 3,
+            "name": "champagne",
+            "code": "#F8E7CD"
+          },
+          {
+            "id": 4,
+            "name": "dark byzantine blue",
+            "code": "#323858"
+          },
+          {
+            "id": 5,
+            "name": "smoky black",
+            "code": "#111111"
+          }
+        ],
+        "category": ["shoes"],
+        "tags": ["men, shoes"],
+        "rating": "5",
+        "images": [
+          "https://george-fx.github.io/manero/resources/products/01.png",
+          "https://george-fx.github.io/manero/resources/products/01.png",
+          "https://george-fx.github.io/manero/resources/products/01.png"
+        ],
+        "promotion": "Take 50% off now!",
+        "isBestseller": true,
+        "isFeatured": false
+      }
+    ]
+  }
