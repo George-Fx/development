@@ -23,6 +23,12 @@
                     "description": "Implement the order checkout process, including the selection of delivery and payment methods, entering contact information, and reviewing and confirming the order before submission. Create an interface for viewing and tracking existing orders, with the option to cancel or modify orders before processing."
                 }
             ],
+            "solutions": [
+                {
+                    "id": 1,
+                    "description": "For the development of the e-commerce clothing mobile app, various technologies and methods were employed. Authentication and authorization mechanisms were implemented to ensure the security of user data. Additionally, functionality for managing the shopping cart was developed, including features for adding, removing, and updating items."
+                }
+            ],
             "screens": 44,
             "budget": "25-35.000",
             "timeSpent": "7-9 weeks",
