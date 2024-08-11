@@ -20,7 +20,7 @@
                 },
                 {
                     "id": 1,
-                    "description": "Develop user authentication (registration and password recovery) and shopping cart functionality (adding, updating quantities, removing items, and saving cart state between sessions)."
+                    "description": "Implement the order checkout process, including the selection of delivery and payment methods, entering contact information, and reviewing and confirming the order before submission. Create an interface for viewing and tracking existing orders, with the option to cancel or modify orders before processing."
                 }
             ],
             "screens": 44,
