@@ -6,7 +6,8 @@
         "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
         "preview_1520_370": "https://george-fx.github.io/manero/assest/01.png",
         "category": ["clothes"],
-        "screens": 44
+        "screens": 44,
+        "technology": ["react native", "figma", "laravel"]
       }
     ]
   }
