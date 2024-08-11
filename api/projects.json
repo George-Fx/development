@@ -3,20 +3,8 @@
       {
         "id": "1",
         "name": "Manero: Fashion Store",
-        "price": 120.0,
         "description": "Sunt id et eaque iure quae. Voluptates quia qui sint quia sit ab. Quasi suscipit autem eveniet dicta amet error corrupti sit.",
-        "category": ["shoes"],
-        "tags": ["men, shoes"],
         "preview_1520_370": "https://george-fx.github.io/manero/resources/products/01.png",
-        "rating": "5",
-        "images": [
-          "https://george-fx.github.io/manero/resources/products/01.png",
-          "https://george-fx.github.io/manero/resources/products/01.png",
-          "https://george-fx.github.io/manero/resources/products/01.png"
-        ],
-        "promotion": "Take 50% off now!",
-        "isBestseller": true,
-        "isFeatured": false
       }
     ]
   }
